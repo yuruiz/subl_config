@@ -1,0 +1,34 @@
+{
+	"auto_complete_selector": "source, text",
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0,
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"match_brackets_angle": true,
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
+	"rulers":
+	[
+		120
+	],
+	"scroll_past_end": true,
+	"soda_classic_tabs": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false",
+	"wrap_width": 120
+}

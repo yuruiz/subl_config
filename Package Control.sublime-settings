@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"C++ Snippets",
+		"ConvertToUTF8",
+		"DashDoc",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"LaTeX Snippets",
+		"MasmAssembly",
+		"Material Theme",
+		"Non Text Files",
+		"Package Control",
+		"Racket",
+		"Scheme",
+		"SML (Standard ML)",
+		"Solarized Color Scheme",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-chktex",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Glacier",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3"
+	]
+}

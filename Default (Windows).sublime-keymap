@@ -1,0 +1,17 @@
+[
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
+		[
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false }
+		]
+	},
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/Add Line.sublime-macro"} },
+    { "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/jump_out_of_bracket_and_add_new_line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/jump_out_of_two_bracket_and_add_new_line.sublime-macro"} },
+	{ "keys": ["shift+tab"], "command": "auto_complete", "context":
+		[
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": true }
+		]
+	},
+	{ "keys": ["ctrl+n"], "command": "advanced_new_file"},
+	{ "keys": ["ctrl+alt+d"], "command": "goto_definition" },
+]

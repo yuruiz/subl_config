@@ -1,0 +1,6 @@
+{
+	"shell_cmd": ["spin", "$file_base_name"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.pml"
+}

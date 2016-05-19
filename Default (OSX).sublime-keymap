@@ -1,0 +1,9 @@
+[
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
+		[
+			{ "key": "auto_complete_visible", "operator": "equal", "operand": false }
+		]
+	},
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "Packages/User/Add Line.sublime-macro"} },
+	{ "keys": ["alt+super+t"], "command": "open_terminal" }
+]
